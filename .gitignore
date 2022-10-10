@@ -4,3 +4,5 @@
 /lib64
 /flask_blog/__pycache__
 *.cfg
+*.pyc
+var/flask_blog-instance/flask_blog.db
