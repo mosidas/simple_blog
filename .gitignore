@@ -3,6 +3,7 @@
 /lib
 /lib64
 /flask_blog/__pycache__
+/Scripts
 *.cfg
 *.pyc
 var/flask_blog-instance/flask_blog.db
