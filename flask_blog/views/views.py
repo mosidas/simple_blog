@@ -1,6 +1,6 @@
 from functools import wraps
 from flask import request,redirect,url_for,render_template,flash,session,Blueprint
-from flask_blog import app
+from flask import current_app as app
 
 view = Blueprint('view',__name__)
 

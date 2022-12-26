@@ -29,10 +29,10 @@ flask run
 - linux
 
 ```
-export FLASK_ENV=development
+export FLASK_DEBUG=1
 ```
 - windows
 
 ```
-$env:FLASK_ENV="development"
+$env:FLASK_DEBUG="1"
 ```
